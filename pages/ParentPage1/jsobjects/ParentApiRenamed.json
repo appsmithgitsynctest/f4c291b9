@@ -1,6 +1,6 @@
 {
   "unpublishedCollection": {
-    "name": "ParentJsAction1",
+    "name": "ParentApiRenamed",
     "pageId": "ParentPage1",
     "pluginId": "js-plugin",
     "pluginType": "JS",
@@ -18,7 +18,7 @@
       }
     ]
   },
-  "id": "ParentPage1_ParentJsAction1",
+  "id": "ParentPage1_ParentApiRenamed",
   "deleted": false,
   "gitSyncId": "62c6ceec426ff66c5df05f0a_62c6cefa426ff66c5df05f16"
 }
